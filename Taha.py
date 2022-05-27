@@ -18,7 +18,7 @@ g{ï¿½Gï¿½zï¿½?(ï¿½ï¿½ï¿½tï¿½ï¿½ï¿½systï¿½ï¿½ï¿½stdouttï¿½ï¿½ï¿½writetï¿½ï¿
              FREE TOOL
           Only Old Id Clone
         AUTHOR    : TAHA CH
-        Facebook  : M.TAHA CH
+        Facebook  : TAHA CH
         Whatsapp  : +923075948865
            Process Starting 
              Wait 1 MnitiPï¿½ï¿½ï¿½iGï¿½ï¿½iï¿½ï¿½ï¿½sï¿½ï¿½ï¿½.txttï¿½ï¿½ï¿½asï¿½ï¿½ï¿½pip2 install requestssï¿½ï¿½ï¿½pip2 install mechanizeiï¿½ï¿½ï¿½s	ï¿½ï¿½ï¿½python2 C(ï¿½ï¿½ï¿½t
